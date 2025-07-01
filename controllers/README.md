@@ -11,6 +11,16 @@ Examples are demonstrated below as to how these routes work.
 #### ***Make sure the server is started by running either command below in the root directory***
 ```npm start``` or ```npm run dev```
 
+
+### Posting an article
+```
+http://localhost:3001/api/posts
+```
+Send an ```HTTP POST``` request with the contents of the artilce in ```JSON``` format to upload it to the database. Search index is auto created for each new article that is added to the db.
+
+![image](https://github.com/user-attachments/assets/6e8f1168-62d3-4d1e-9d78-15b0428120a7)
+
+
 ### Fetching posts from database
 ```
 http://localhost:3001/api/posts

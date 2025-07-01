@@ -1,7 +1,7 @@
 
 # Blogging Platform API
 
-RESTful API project for a blogging platform. See each directory for specific information.
+RESTful API project for a blogging platform. See ```controllers``` directory for specific information on routes being used.
 
 ## Description
 This project was meant to practice making RESTful API. I utilized NodeJS and ExpressJS to build the backend. The API lets you perform CRUD operations for posts (blogs). You can for example:

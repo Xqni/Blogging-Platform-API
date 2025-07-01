@@ -27,3 +27,10 @@ The goals of this project are to help me:
 
 - NodeJS and ExpressJS for backend. 
 - MongoDB as my database storage.
+
+## Websites Used
+ - [Blogging Platform API](https://roadmap.sh/projects/blogging-platform-api)
+ - [MongoDB for storage](https://www.mongodb.com/)
+ - [Learning material](https://fullstackopen.com/en/)
+ - [Roadmap.sh](https://roadmap.sh/roadmaps)
+ - [Readme](https://readme.so/)

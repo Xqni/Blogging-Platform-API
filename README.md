@@ -11,7 +11,7 @@ This project was meant to practice making RESTful API. I utilized NodeJS and Exp
 - Update an existing post
 - Delete an existing post
 
-Along with this, I have alos implemented a wildcard full text search which lets you search for posts in the database.
+Along with this, I have also implemented a wildcard full text search which lets you search for posts in the database.
 
 ## Goals
 The goals of this project are to help me:

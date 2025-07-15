@@ -1,4 +1,11 @@
 
+I'm the founder of an new platform – an alternative to Shopify and WooCommerce. We've assembled a talented team of developers, video editors, graphic designers, and digital marketers, and we're working hard to create something truly unique.
+
+We’d love for you to join our team and collaborate on this vision. 
+ You can reach me at parshantbhusal099@gmail.com.
+
+
+
 # Blogging Platform API
 
 RESTful API project for a blogging platform. See ```controllers``` directory for specific information on routes being used.
